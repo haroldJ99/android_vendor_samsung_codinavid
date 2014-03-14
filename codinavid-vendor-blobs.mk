@@ -156,6 +156,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/codinavid/proprietary/etc/LVVEFS_tuning_parameters/Tx_ControlParams_SPEAKER_VOIP.txt:codinavid/etc/LVVEFS_tuning_parameters/Tx_ControlParams_SPEAKER_VOIP.txt \
     vendor/samsung/codinavid/proprietary/etc/LVVEFS_tuning_parameters/Tx_ControlParams_SPEAKER_VT.txt:codinavid/etc/LVVEFS_tuning_parameters/Tx_ControlParams_SPEAKER_VT.txt \
     vendor/samsung/codinavid/proprietary/etc/LVVEFS_tuning_parameters/Tx_ControlParams_SPEAKER_WB.txt:codinavid/etc/LVVEFS_tuning_parameters/Tx_ControlParams_SPEAKER_WB.txt \
+    vendor/samsung/codinavid/proprietary/etc/AT/manuf_id.cfg:codinavid/etc/AT/manuf_id.cfg \
+    vendor/samsung/codinavid/proprietary/etc/AT/model_id.cfg:codinavid/etc/AT/model_id.cfg \
+    vendor/samsung/codinavid/proprietary/etc/AT/system_id.cfg:codinavid/etc/AT/system_id.cfg\
     vendor/samsung/codinavid/proprietary/lib/libril.so:codinavid/lib/libril.so \
     vendor/samsung/codinavid/proprietary/lib/libsec-ril.so:codinavid/lib/libsec-ril.so \
     vendor/samsung/codinavid/proprietary/lib/libsecril-client.so:codinavid/lib/libsecril-client.so \
