@@ -222,6 +222,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/codinavid/proprietary/lib/libste_ens_video_common.so:codinavid/lib/libste_ens_video_common.so \
     vendor/samsung/codinavid/proprietary/lib/libste_ext_ens_image_common.so:codinavid/lib/libste_ext_ens_image_common.so \
     vendor/samsung/codinavid/proprietary/lib/libste_omxil-interface.so:codinavid/lib/libste_omxil-interface.so \
+    vendor/samsung/codinavid/proprietary/lib/libstagefright_ste_aacdec.so:codinavid/lib/libstagefright_ste_aacdec.so \
+    vendor/samsung/codinavid/proprietary/lib/libstagefright_ste_mp3decode.so:codinavid/lib/libstagefright_ste_mp3decode.so \
     vendor/samsung/codinavid/proprietary/lib/ste_omxcomponents/libste_exif_mixer.so:codinavid/lib/ste_omxcomponents/libste_exif_mixer.so \
     vendor/samsung/codinavid/proprietary/lib/ste_omxcomponents/libste_dec_vc1.so:codinavid/lib/ste_omxcomponents/libste_dec_vc1.so \
     vendor/samsung/codinavid/proprietary/lib/ste_omxcomponents/libste_dec_amrwb.so:codinavid/lib/ste_omxcomponents/libste_dec_amrwb.so \
